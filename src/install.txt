@@ -1,0 +1,16 @@
+To compiple the NewTonSR++ 0.5
+
+Install : Qt Creator 4.15.1 with the follow package
+Qt Creator 4.15.1 CDB Debugger Support
+Debugging Tools for Windows
+Qt Creator 4.15.1 Debug Symbols
+Qt Creator 4.15.1 Pluging Development
+MinGW 8.1.0. 64-bit
+CMake 3.19.2 64-bit
+Ninja 1.10.0
+Qt Charts
+Qt Quick 3D
+Qt Data Visualization
+Open src/regression-symbolique/CMakeLists.txt with Qt Creator and compile it
+
+If you speak French you can find a documentation src/regression-symbolique/doc-html/index.html
